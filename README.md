@@ -52,7 +52,7 @@ I'm a passionate **Full-Stack Web Developer** focused on building scalable, secu
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahammad-atheek-rahman-657533253/)  
 
 
 <!--
