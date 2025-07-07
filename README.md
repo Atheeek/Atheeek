@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4Vk3R4g37Tt5i/giphy.gif" width="150" alt="Glitchy Hacker" />
+  <img src="https://blog.cyriloaks.com/media/man-coding-gif.gif" width="150" alt="Glitchy Hacker" />
 </p>
 
 
