@@ -14,28 +14,28 @@
 
 ## 🚀 Tech Stack
 
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind" />
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/ios-filled/50/express-js.png" alt="Express" />
+  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" />
+<img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express.js" />
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
-  <img src="https://img.icons8.com/color/48/json-web-token.png" alt="JWT" />
-  <img src="https://img.icons8.com/color/48/postman-api.png" alt="Postman" />
-  <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" />
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" />
+<img src="https://img.icons8.com/ios-filled/50/000000/vercel.png" alt="Vercel" />
+<img src="https://img.icons8.com/ios-filled/50/netlify.png" alt="Netlify" />
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" />
-  <img src="https://img.icons8.com/fluency/48/vercel.png" alt="Vercel" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-logo-shadow-tal-revivo.png" alt="Netlify" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-render-a-cloud-platform-that-enables-developers-to-build-deploy-and-scale-apps-logo-shadow-tal-revivo.png" alt="Render" />
-  <img src="https://img.icons8.com/external-others-pike-picture/48/external-Dialogflow-logos-others-pike-picture.png" alt="Dialogflow" />
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" />
 </p>
+
 
 ---
 
