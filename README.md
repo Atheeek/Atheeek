@@ -1,36 +1,37 @@
-# 👋 Hi, I'm Atheek Rahman
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&center=true&vCenter=true&color=F79A00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Atheek+Rahman;Full+Stack+Web+Developer;MERN+%7C+Next.js+%7C+AI+%7C+Dev+Tools" alt="Typing SVG" />
+</h1>
 
-A passionate **Full-Stack Web Developer** building **scalable**, **secure**, and **modern** web applications. I specialize in the **MERN stack**, real-time features, AI chatbot integrations, and crafting clean, user-friendly UI/UX.
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="120" alt="dev logo" />
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🧩 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-### 🛠️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-### ⚙️ Tools & DevOps
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat&logo=dialogflow&logoColor=white)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/ios-filled/50/express-js.png" alt="Express" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
+  <img src="https://img.icons8.com/color/48/json-web-token.png" alt="JWT" />
+  <img src="https://img.icons8.com/color/48/postman-api.png" alt="Postman" />
+  <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" />
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/fluency/48/vercel.png" alt="Vercel" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-logo-shadow-tal-revivo.png" alt="Netlify" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-render-a-cloud-platform-that-enables-developers-to-build-deploy-and-scale-apps-logo-shadow-tal-revivo.png" alt="Render" />
+  <img src="https://img.icons8.com/external-others-pike-picture/48/external-Dialogflow-logos-others-pike-picture.png" alt="Dialogflow" />
+</p>
 
 ---
 
@@ -46,26 +47,41 @@ A passionate **Full-Stack Web Developer** building **scalable**, **secure**, and
 
 ## 📈 GitHub Stats
 
-![Atheek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atheek&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=atheek&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atheeek&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Atheeek&theme=dark" width="48%" />
+</p>
 
 ---
 
 ## 🏙️ GitHub Contribution Skyline
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
-
+---
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahammad-atheek-rahman-657533253/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ko-fi&logoColor=white)](https://atheek.vercel.app)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]((https://www.instagram.com/atheekrhmn/))
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahammad-atheek-rahman-657533253/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/atheekrhmn/">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" />
+  </a>
+  <a href="https://atheek.vercel.app">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-personal-portfolio-web-site-for-coders-and-developers-logo-color-tal-revivo.png" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
 > _“I don’t just build apps—I build experiences that solve real problems.”_
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atheeek&label=Profile+views&color=0e75b6&style=flat" alt="Atheeek" />
+</p>
