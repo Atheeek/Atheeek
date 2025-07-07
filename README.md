@@ -54,7 +54,7 @@ A passionate **Full-Stack Web Developer** building **scalable**, **secure**, and
 ## 🏙️ GitHub Contribution Skyline
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 
