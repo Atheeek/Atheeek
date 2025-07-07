@@ -1,7 +1,7 @@
-
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="120" alt="dev logo" />
+  <img src="https://media.giphy.com/media/3o7aD4Vk3R4g37Tt5i/giphy.gif" width="150" alt="Glitchy Hacker" />
 </p>
+
 
 
 <h1 align="center">
@@ -22,8 +22,8 @@
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React" />
   <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" />
-<!-- <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express.js" />
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" /> -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" /> 
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" />
