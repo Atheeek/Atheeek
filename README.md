@@ -22,14 +22,14 @@
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React" />
   <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" />
-<img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express.js" />
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
+<!-- <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express.js" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" /> -->
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" />
 <img src="https://img.icons8.com/ios-filled/50/000000/vercel.png" alt="Vercel" />
-<img src="https://img.icons8.com/ios-filled/50/netlify.png" alt="Netlify" />
-  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" />
+<!-- <img src="https://img.icons8.com/ios-filled/50/netlify.png" alt="Netlify" />
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" /> -->
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />
   <img src="https://img.icons8.com/color/48/python.png" alt="Python" />
@@ -79,7 +79,7 @@
     <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" />
   </a>
   <a href="https://atheek.vercel.app">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-personal-portfolio-web-site-for-coders-and-developers-logo-color-tal-revivo.png" alt="Portfolio" />
+<img src="https://img.icons8.com/ios-filled/50/000000/vercel.png" alt="Vercel" />
   </a>
 </p>
 
