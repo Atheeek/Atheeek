@@ -22,7 +22,7 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config --global user.email "your-email@example.com"
+          git config --global user.email "atheek163@.com"
           git config --global user.name "Atheek Rahman"
           git add .
           git commit -m "🧱 Update 3D GitHub Contribution Graph" || echo "No changes to commit"
