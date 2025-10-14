@@ -43,11 +43,11 @@
 
 ## 💡 Highlights
 
-- 🔐 Secure authentication with **JWT** & **Firebase Auth**
-- 🤖 AI chatbot integration using **Dialogflow** & **OpenRouter**
-- 🎮 Gamified learning platforms for neurologically diverse children
-- 📊 Real-time progress tracking dashboards and analytics
-- 🌐 Smooth deployment via **Vercel**, **Netlify**, and **Render**
+- 💻 Experienced in full-stack development (React, Node.js, Express, MongoDB, MySQL, Tailwind CSS)
+- 🏢 Completed Full Stack Internship at CDAC, Bangalore
+- ⚙️ Hands-on DevOps experience: Docker, Jenkins, CI/CD pipelines
+- 🌐 Built real-world applications
+- 🤝 Freelance experience in client projects
 
 ---
 
